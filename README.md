@@ -1,4 +1,4 @@
-![alx logo](https://secure.meetupstatic.com/photos/event/b/c/5/6/highres_475548214.jpeg)
+![alx logo](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
 
 
 This repository contains the files for Alx **simple_shell project**. It can be compiled using GCC and will execute a simple shell that can be used for some basic tasks and programs most commonly found in the /bin/ folder.
